@@ -1,0 +1,4 @@
+error.log.txt
+log1.log
+*.log
+/f1/
