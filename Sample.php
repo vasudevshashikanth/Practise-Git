@@ -26,7 +26,9 @@ echo "2";
 // this text is visible in branch -- develop_branch
 
 
-
+function dev(){
+    return "dev";
+}
 
 
 
