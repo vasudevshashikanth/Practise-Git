@@ -1,0 +1,2 @@
+# Practise-Git
+To the dynamic configuration for joining to WLAN with SSID and PSK accordingly. It an Arduino library united with ESP8266WebServer class of ESP8266 or WebServer class of ESP32. Easily implementing the Web interface constituting the WLAN for ESP8266/ESP32 WiFi connection. With this library to make a sketch easily which connects from ESP8266/ESP32 to the access point at runtime by the web interface without hard-coded SSID and password.
